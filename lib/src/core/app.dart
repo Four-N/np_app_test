@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../config/router/router.dart';
-import '../home/bloc/bloc.dart';
+import '../home/bloc/home_bloc.dart';
 
 // import 'package:bloc/bloc.dart';
 

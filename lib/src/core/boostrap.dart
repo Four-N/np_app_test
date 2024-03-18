@@ -3,9 +3,8 @@ import 'dart:developer';
 
 import 'package:bloc/bloc.dart';
 import 'package:flutter/widgets.dart';
-
-import 'app.dart';
-import 'app_bloc_observer.dart';
+import 'package:np_app_test/src/core/app.dart';
+import 'package:np_app_test/src/core/app_bloc_observer.dart';
 
 void bootstrap() {
   FlutterError.onError = (details) {

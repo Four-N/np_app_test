@@ -1,6 +1,5 @@
-import 'package:flutter/material.dart';
-
-import 'src/core/boostrap.dart';
+import 'package:flutter/widgets.dart';
+import 'package:np_app_test/src/core/boostrap.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();

@@ -1,7 +1,7 @@
 import 'package:flutter/widgets.dart';
 import 'package:go_router/go_router.dart';
+import 'package:np_app_test/src/home/view/home.dart';
 
-import '../../home/view/view.dart';
 import '../../shared/presentation/views/views.dart';
 import 'app_route.dart';
 
