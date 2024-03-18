@@ -1,12 +1,9 @@
 import 'package:flutter/material.dart';
 
-//0xFFFCF4E4 //0xFF756d54
 class IconsButton extends StatelessWidget {
   final IconData icon;
-  const IconsButton({
-    super.key,
-    required this.icon,
-  });
+
+  const IconsButton({super.key, required this.icon});
 
   @override
   Widget build(BuildContext context) {
